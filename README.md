@@ -1,4 +1,4 @@
-# vekariakomal001
+# Komal Vekariya
 My Professional Repository
 <h1>
   Hello Professionals!! 
