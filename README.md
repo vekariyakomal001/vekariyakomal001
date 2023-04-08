@@ -20,7 +20,6 @@ My Professional Repository
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/officel/512/php-logo.png" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/windows/2x/wordpress.png" title="WordPress" **alt="WordPress" width="40" height="40"/>&nbsp;
-  <a href="https://icons8.com/icon/HSUyAxXlFIh4/codeigniter-is-an-open-source-software-rapid-development-web-framework">CodeIgniter is an open-source software rapid development web framework icon by Icons8</a>
 </div>
 
 ### Tools & Technologies:
