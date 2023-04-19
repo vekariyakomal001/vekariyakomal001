@@ -6,7 +6,7 @@ My Professional Repository
 </h1>
 
 ### :woman_technologist: About Me :
-- I am a Software Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Canada 
+- I am a Web Developer & Software Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Canada 
 :maple_leaf:. 
 - I am passionate about new learning :computer:.
 - In my free time, I learn different tools and programming methodologies:technologist:.
